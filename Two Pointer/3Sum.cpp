@@ -27,5 +27,4 @@ public:
     }
 };
 
-// hey bro. whats up. doing well?
-// tiger is good
+// flying cow
